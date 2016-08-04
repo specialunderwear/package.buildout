@@ -1,0 +1,10 @@
+.installed.cfg
+.mr.developer.cfg
+bin/
+develop-eggs/
+src/
+eggs/
+.vdt.recipe.version.cfg
+packages/
+wheels/
+parts/
